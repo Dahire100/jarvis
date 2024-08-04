@@ -15,7 +15,7 @@ voices = engine.getProperty('voices')
 engine.setProperty('voice', voices[0].id)
 
 NEWS_API_KEY = '1234567890abcdef1234567890abcdef'
-OPENAI_API_KEY = 'sk-dev-KI0wYAQ8RUk6N9DNPCryT3BlbkFJQVvBpcmZXyP4BqIpd3V1'  
+OPENAI_API_KEY = 'your_OpenAI_KEY'  
 
 openai.api_key = OPENAI_API_KEY
 
